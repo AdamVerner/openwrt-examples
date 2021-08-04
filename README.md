@@ -35,6 +35,15 @@ Feel free to submit new examples and fix errors! :-)
 * make build system
 * source code is part of the package
 
+### example4
+
+* Simple program that sends ubus event every few seconds
+  * Depends on the ubus package
+* the following files will be installed:
+  * /usr/bin/example4
+* cmake build system
+* source code is part of the package
+
 These examples are licensed under CC0-1.0 / placed into Public Domain.
 
 ## Official Documentation
